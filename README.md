@@ -10,7 +10,7 @@ Kalo Di Windows [CMD] kan netsh wlan show profile nama_wifi key=clear<br>Nah ini
 4. Ekstrak File Zip nya
 5. done, tinggal klik 2x file netsh.py
 ```
-<b>NB : di windows nya harus sudah terinstall python2</b><br>Tutor Install Python2 di Windows<br><p><a href="https://youtu.be/pHbxl6sBxOo" title="Install python2" target="_blank" value="Tutorial" /></a></p>
+<b>NB : di windows nya harus sudah terinstall python2</b><br>Tutor Install Python2 di Windows<br>*Link : https://youtu.be/pHbxl6sBxOo*<br>
 # di Termox Bisa gk bang ? :V
 ```
 Gak Tau di Termux Bisa apa gk :V
